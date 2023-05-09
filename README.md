@@ -1,4 +1,5 @@
 # LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor
+The paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 
 
 ![Main](main.pdf)
