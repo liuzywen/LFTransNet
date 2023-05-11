@@ -3,9 +3,10 @@ The paper has been accepted by IEEE Transactions on Circuits and Systems for Vid
 
 
 ![Main](main.pdf)
-## Training Set
+## Training Set and Testing Set
+链接：https://pan.baidu.com/s/1xKowe-mUi8FATLMXX9WMSg 
+提取码：t3pr 
 
-## Testing Set
 
 ##  PVT Parameters
 链接：https://pan.baidu.com/s/10JVtKkJSHknY83Nijjm5kw 
