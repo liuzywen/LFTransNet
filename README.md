@@ -1,6 +1,8 @@
 # LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor
 The paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology.
+https://ieeexplore.ieee.org/document/10138590
 
+DOI:10.1109/TCSVT.2023.3281465
 
 ![Main](main.pdf)
 ## Training Set and Testing Set
