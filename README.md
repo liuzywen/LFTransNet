@@ -36,7 +36,7 @@ DOI:10.1109/TCSVT.2023.3281465
 ### Citation
 
 If you find the information useful, please consider citing:
-
+```
 @article{liu2023,
   author={Liu, Zhengyi and He, Qian and Wang, Linbo and Fang, Xianyong and Tang Bin},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
