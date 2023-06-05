@@ -37,6 +37,11 @@ DOI:10.1109/TCSVT.2023.3281465
 
 If you find the information useful, please consider citing:
 
-```
+@article{liu2023,
+  author={Liu, Zhengyi and He, Qian and Wang, Linbo and Fang, Xianyong and Tang Bin},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor}, 
+  pages={1--10},
+  year={2023}}
 ```
 If you have any question, please email  liuzywen@ahu.edu.cn
