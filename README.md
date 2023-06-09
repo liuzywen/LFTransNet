@@ -4,7 +4,7 @@ https://ieeexplore.ieee.org/document/10138590
 
 DOI:10.1109/TCSVT.2023.3281465
 
-![main](images/main.pdf)
+![main](main.pdf)
 ## Training Set and Testing Set
 链接：https://pan.baidu.com/s/1xKowe-mUi8FATLMXX9WMSg 
 提取码：t3pr 
